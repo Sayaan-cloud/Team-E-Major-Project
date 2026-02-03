@@ -60,7 +60,7 @@ The system learns to associate image features with words and generates captions 
 
 ## 📊 Results
 
-- Model successfully generates meaningful captions
+- The model successfully generates meaningful captions
 - Loss decreases consistently across epochs
 - Attention mechanism improves caption quality
 
